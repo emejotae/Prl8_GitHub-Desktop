@@ -1,0 +1,3 @@
+﻿  JuegoOOApp.cpp
+F:\MP0487-ENTORNOS DE DESARROLLO\prl4_Juego\.vs\prl4_Juego\Prl4_Juego_OO\JuegoOOApp.cpp(15,37): warning C4305: 'argumento': truncamiento de 'int' a 'bool'
+  Juego_Con_Boss.vcxproj -> F:\MP0487-ENTORNOS DE DESARROLLO\Juego_Con_Boss\Juego_Con_Boss\x64\Debug\Juego_Con_Boss.exe
